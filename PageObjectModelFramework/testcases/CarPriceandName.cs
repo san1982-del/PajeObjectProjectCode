@@ -19,16 +19,17 @@ namespace PageObjectModelFramework.testcases
             public void CarNamePrice(string browser, string runmode, string carbrand, string cartitle, string carname)
             {
                 SetUp(browser);
+                BaseTest.log.Info(browser + " Browser is launched");
                 HomePage homePage = new HomePage(driver.Value);
+                BaseTest.log.Info("Homepage is launched");
                 NewCarPage newcarbrand = homePage.FindNewCar();
                 newcarbrand.ViewBrand();
-                BasePage.carBase.carBrandPage(carbrand, newcarbrand);
-                BaseTest.log.Info("Car Price and Car name fetching started");
-                BasePage.carBase.GetCarNameAndPrice();
-                BaseTest.log.Info("Car Price and Car name fetching completed");
-                Thread.Sleep(5000);
-                Assert.That(cartitle.Equals(BasePage.carBase.ValidatePageTitle()), "car titles not matching for : " + cartitle);
-            }
+                CarBrandPage Brandpage = newcarbrand.OpenCarBrandPage(carbrand, newcarbrand);
+                Console.WriteLine(BasePage.carBase.ValidatePageTitle());
+                Assert.That(cartitle.Equals(BasePage.carBase.ValidatePageTitle()), "Car Brand title not matching for : " + cartitle);
+                CarNamePage carpage = Brandpage.OpenCarNamePage(carname);
+
+        }
 
             public static IEnumerable<TestCaseData> GetTestData()
             {

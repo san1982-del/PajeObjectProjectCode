@@ -1,5 +1,8 @@
-﻿using OpenQA.Selenium;
+﻿using NUnit.Framework.Constraints;
+using OpenQA.Selenium;
 using PageObjectModelFramework.basetest;
+using PageObjectModelFramework.pageobjects.CarBrandPages;
+using PageObjectModelFramework.pageobjects.CarPages;
 using PageObjectModelFramework.utilities;
 using System;
 using System.Collections;
@@ -21,28 +24,11 @@ namespace PageObjectModelFramework.pageobjects
         
         public string ValidatePageTitle()
         {
-            return  BasePage.keyword.GetText("CarBase", "cartitle", "XPATH");
+            return BasePage.keyword.GetText("CarBase", "cartitle", "XPATH");
+            
         }
 
-        public void carBrandPage(string carbrand, NewCarPage newcarbrand)
-        {
-            if (carbrand == "BMW")
-            {
-                BMWCarPage bmwcar = newcarbrand.OpenBMWCarPage();
-            }
-            else if (carbrand == "Kia")
-            {
-                CarNamePage kiacar = newcarbrand.OpenKiaCarPage();
-            }
-            else if (carbrand == "Audi")
-            {
-                AudiCarPage kiacar = newcarbrand.OpenAudiCarPage();
-            }
-            else if (carbrand == "Toyota")
-            {
-                ToyotaCarPage toyotacar = newcarbrand.OpenToyotaCarPage();
-            }
-        }
+       
 
         public void GetCarNameAndPrice()
         {

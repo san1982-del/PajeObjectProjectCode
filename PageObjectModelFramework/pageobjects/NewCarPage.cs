@@ -1,4 +1,6 @@
 ﻿using OpenQA.Selenium;
+using PageObjectModelFramework.pageobjects.CarBrandPages;
+using PageObjectModelFramework.pageobjects.CarPages;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -13,43 +15,62 @@ namespace PageObjectModelFramework.pageobjects
         {
         }
 
-        public BMWCarPage OpenBMWCarPage()
+        public CarBrandPage OpenCarBrandPage(string opencarbrand, NewCarPage carbrand)
         {
-            keyword.Click("NewCarPage","bmwcar","LINK");
+            if (opencarbrand == "BMW")
+            {
+                BMWCarBrandPage bmwbrand = carbrand.OpenBMWCarBrandPage();
+            }
+            else if (opencarbrand == "Kia")
+            {
+                OpenKiaCarBrandPage();
+            }
+            else if (opencarbrand == "Audi")
+            {
+                AudiCarBrandPage kiabrand = carbrand.OpenAudiCarBrandPage();
+            }
+            else if (opencarbrand == "Toyota")
+            {
+                ToyotaCarBrandPage toyotabrand = carbrand.OpenToyotaCarBrandPage();
+            }
+
+            return new CarBrandPage(driver);
+        }
+
+        public BMWCarBrandPage OpenBMWCarBrandPage()
+        {
+            keyword.Click("NewCarPage","bmwbrand","LINK");
             
             Thread.Sleep(10000);
 
-            return new BMWCarPage(driver);
+            return new BMWCarBrandPage(driver);
         }
 
-        public CarNamePage OpenKiaCarPage()
+        public void OpenKiaCarBrandPage()
         {
-            keyword.Click("NewCarPage", "kiacar", "LINK");
-            // driver.FindElement(By.LinkText("BMW")).Click();
+            keyword.Click("NewCarPage", "kiabrand", "LINK");
 
             Thread.Sleep(10000);
 
-            return new CarNamePage(driver);
+            //return new KIACarBrandPage(driver);
         }
 
-        public ToyotaCarPage OpenToyotaCarPage()
+        public ToyotaCarBrandPage OpenToyotaCarBrandPage()
         {
-            keyword.Click("NewCarPage", "toyotacar", "LINK");
-            // driver.FindElement(By.LinkText("BMW")).Click();
+            keyword.Click("NewCarPage", "toyotabrand", "LINK");
 
             Thread.Sleep(10000);
 
-            return new ToyotaCarPage(driver);
+            return new ToyotaCarBrandPage(driver);
         }
 
-        public AudiCarPage OpenAudiCarPage()
+        public AudiCarBrandPage OpenAudiCarBrandPage()
         {
-            keyword.Click("NewCarPage", "audicar", "LINK");
-            // driver.FindElement(By.LinkText("BMW")).Click();
-
+            keyword.Click("NewCarPage", "audibrand", "LINK");
+      
             Thread.Sleep(10000);
 
-            return new AudiCarPage(driver);
+            return new AudiCarBrandPage(driver);
         }
 
         public void ViewBrand()

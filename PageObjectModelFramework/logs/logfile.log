@@ -1180,3 +1180,171 @@
 2025-11-04 10:15:41,606 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Car Brand Name Audi is entered for Search 
 2025-11-04 10:15:42,187 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Car Brand Name All Audi Cars is selected for Search 
 2025-11-04 10:15:48,102 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Completed
+2025-11-12 12:44:21,461 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Started
+2025-11-12 12:44:26,632 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Completed
+2025-11-12 12:44:26,806 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Started
+2025-11-12 12:44:31,104 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Completed
+2025-11-12 12:44:31,105 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Started
+2025-11-12 12:44:35,180 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Completed
+2025-11-12 12:44:35,180 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Started
+2025-11-12 12:44:39,264 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Completed
+2025-11-12 12:50:28,110 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Started
+2025-11-12 12:50:41,868 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - chrome browser with following url https://carwale.com is launched
+2025-11-12 12:50:43,361 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - chrome Browser is launched
+2025-11-12 12:50:43,362 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Homepage is launched
+2025-11-12 12:50:56,408 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Completed
+2025-11-12 14:15:25,261 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Started
+2025-11-12 14:15:37,661 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - chrome browser with following url https://carwale.com is launched
+2025-11-12 14:15:39,196 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - chrome Browser is launched
+2025-11-12 14:15:39,197 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Homepage is launched
+2025-11-12 14:15:52,388 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Completed
+2025-11-12 14:29:40,682 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Started
+2025-11-12 14:29:49,336 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - chrome browser with following url https://carwale.com is launched
+2025-11-12 14:29:50,564 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - chrome Browser is launched
+2025-11-12 14:29:50,565 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Homepage is launched
+2025-11-12 14:30:10,030 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Completed
+2025-11-12 14:30:12,615 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Started
+2025-11-12 14:30:17,500 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - chrome browser with following url https://carwale.com is launched
+2025-11-12 14:30:22,297 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - chrome Browser is launched
+2025-11-12 14:30:22,297 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Homepage is launched
+2025-11-12 14:30:41,845 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Completed
+2025-11-12 14:34:36,619 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Started
+2025-11-12 14:34:45,400 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - chrome browser with following url https://carwale.com is launched
+2025-11-12 14:34:46,722 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - chrome Browser is launched
+2025-11-12 14:34:46,723 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Homepage is launched
+2025-11-12 14:35:05,799 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Completed
+2025-11-12 14:38:08,010 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Started
+2025-11-12 14:38:16,429 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - chrome browser with following url https://carwale.com is launched
+2025-11-12 14:38:18,005 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - chrome Browser is launched
+2025-11-12 14:38:18,005 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Homepage is launched
+2025-11-12 14:38:20,204 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Completed
+2025-11-12 14:38:39,686 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Started
+2025-11-12 14:38:48,583 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - chrome browser with following url https://carwale.com is launched
+2025-11-12 14:38:50,190 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - chrome Browser is launched
+2025-11-12 14:38:50,191 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Homepage is launched
+2025-11-12 14:39:12,078 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Completed
+2025-11-12 14:41:30,854 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Started
+2025-11-12 14:41:39,577 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - chrome browser with following url https://carwale.com is launched
+2025-11-12 14:41:41,121 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - chrome Browser is launched
+2025-11-12 14:41:41,122 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Homepage is launched
+2025-11-12 14:42:01,727 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Completed
+2025-11-12 14:45:07,989 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Started
+2025-11-12 14:45:12,854 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - chrome browser with following url https://carwale.com is launched
+2025-11-12 14:45:19,122 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - chrome Browser is launched
+2025-11-12 14:45:19,123 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Homepage is launched
+2025-11-12 14:45:38,011 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Completed
+2025-11-12 14:45:39,654 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Started
+2025-11-12 14:45:57,765 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - firefox browser with following url https://carwale.com is launched
+2025-11-12 14:45:58,114 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - firefox Browser is launched
+2025-11-12 14:45:58,118 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Homepage is launched
+2025-11-12 14:46:12,242 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Completed
+2025-11-12 14:46:16,858 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Started
+2025-11-12 14:46:30,716 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - firefox browser with following url https://carwale.com is launched
+2025-11-12 14:46:30,834 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - firefox Browser is launched
+2025-11-12 14:46:30,834 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Homepage is launched
+2025-11-12 14:46:49,716 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Completed
+2025-11-12 14:46:55,165 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Started
+2025-11-12 14:47:01,208 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - chrome browser with following url https://carwale.com is launched
+2025-11-12 14:47:03,723 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - chrome Browser is launched
+2025-11-12 14:47:03,723 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Homepage is launched
+2025-11-12 14:47:23,372 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Completed
+2025-11-12 14:50:38,505 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Started
+2025-11-12 14:50:46,326 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - chrome browser with following url https://carwale.com is launched
+2025-11-12 14:50:47,744 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - chrome Browser is launched
+2025-11-12 14:50:47,745 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Homepage is launched
+2025-11-12 14:51:06,960 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Completed
+2025-11-12 14:51:07,744 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Started
+2025-11-12 14:51:21,392 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - firefox browser with following url https://carwale.com is launched
+2025-11-12 14:51:21,508 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - firefox Browser is launched
+2025-11-12 14:51:21,508 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Homepage is launched
+2025-11-12 14:51:35,838 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Completed
+2025-11-12 14:51:42,615 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Started
+2025-11-12 14:51:57,841 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - firefox browser with following url https://carwale.com is launched
+2025-11-12 14:51:58,172 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - firefox Browser is launched
+2025-11-12 14:51:58,172 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Homepage is launched
+2025-11-12 14:52:18,885 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Completed
+2025-11-12 14:52:26,696 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Started
+2025-11-12 14:52:36,825 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - chrome browser with following url https://carwale.com is launched
+2025-11-12 14:52:38,633 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - chrome Browser is launched
+2025-11-12 14:52:38,634 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Homepage is launched
+2025-11-12 14:52:57,948 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Completed
+2025-11-12 15:58:27,473 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Started
+2025-11-12 15:58:41,408 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - chrome browser with following url https://carwale.com is launched
+2025-11-12 15:58:42,993 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - chrome Browser is launched
+2025-11-12 15:58:43,007 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Homepage is launched
+2025-11-12 15:59:03,231 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Completed
+2025-11-12 16:04:07,445 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Started
+2025-11-12 16:04:16,351 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - chrome browser with following url https://carwale.com is launched
+2025-11-12 16:04:17,540 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - chrome Browser is launched
+2025-11-12 16:04:17,549 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Homepage is launched
+2025-11-12 16:04:37,278 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Completed
+2025-11-12 16:05:27,138 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Started
+2025-11-12 16:05:35,667 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - chrome browser with following url https://carwale.com is launched
+2025-11-12 16:05:36,489 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - chrome Browser is launched
+2025-11-12 16:05:36,489 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Homepage is launched
+2025-11-12 16:05:57,153 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Completed
+2025-11-12 16:05:58,296 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Started
+2025-11-12 16:06:15,453 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - firefox browser with following url https://carwale.com is launched
+2025-11-12 16:06:15,572 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - firefox Browser is launched
+2025-11-12 16:06:15,573 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Homepage is launched
+2025-11-12 16:06:28,774 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Completed
+2025-11-12 16:06:33,310 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Started
+2025-11-12 16:06:43,226 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - firefox browser with following url https://carwale.com is launched
+2025-11-12 16:06:43,328 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - firefox Browser is launched
+2025-11-12 16:06:43,328 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Homepage is launched
+2025-11-12 16:06:57,413 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Completed
+2025-11-12 16:07:00,796 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Started
+2025-11-12 16:07:09,186 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - chrome browser with following url https://carwale.com is launched
+2025-11-12 16:07:10,413 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - chrome Browser is launched
+2025-11-12 16:07:10,413 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Homepage is launched
+2025-11-12 16:07:29,803 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Completed
+2025-11-13 01:33:17,857 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Started
+2025-11-13 01:33:33,442 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - chrome browser with following url https://carwale.com is launched
+2025-11-13 01:33:35,131 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - chrome Browser is launched
+2025-11-13 01:33:35,132 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Homepage is launched
+2025-11-13 01:34:05,172 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Completed
+2025-11-13 01:45:14,703 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Started
+2025-11-13 01:45:23,130 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - chrome browser with following url https://carwale.com is launched
+2025-11-13 01:45:29,139 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - chrome Browser is launched
+2025-11-13 01:45:29,140 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Homepage is launched
+2025-11-13 01:45:59,663 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Completed
+2025-11-13 01:51:02,116 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Started
+2025-11-13 01:51:07,781 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - chrome browser with following url https://carwale.com is launched
+2025-11-13 01:51:13,666 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - chrome Browser is launched
+2025-11-13 01:51:13,666 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Homepage is launched
+2025-11-13 01:51:42,239 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Completed
+2025-11-13 01:55:46,923 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Started
+2025-11-13 01:55:56,697 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - chrome browser with following url https://carwale.com is launched
+2025-11-13 01:55:57,996 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - chrome Browser is launched
+2025-11-13 01:55:57,996 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Homepage is launched
+2025-11-13 01:56:26,529 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Completed
+2025-11-13 02:06:20,934 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Started
+2025-11-13 02:06:31,068 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - chrome browser with following url https://carwale.com is launched
+2025-11-13 02:06:32,678 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - chrome Browser is launched
+2025-11-13 02:06:32,679 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Homepage is launched
+2025-11-13 02:06:58,416 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Completed
+2025-11-13 02:20:33,848 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Started
+2025-11-13 02:20:44,945 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - chrome browser with following url https://carwale.com is launched
+2025-11-13 02:20:46,912 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - chrome Browser is launched
+2025-11-13 02:20:46,913 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Homepage is launched
+2025-11-13 02:21:15,151 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Completed
+2025-11-13 02:21:16,334 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Started
+2025-11-13 02:21:33,467 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - firefox browser with following url https://carwale.com is launched
+2025-11-13 02:21:33,566 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - firefox Browser is launched
+2025-11-13 02:21:33,566 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Homepage is launched
+2025-11-13 02:21:46,608 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Completed
+2025-11-13 02:21:52,506 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Started
+2025-11-13 02:22:02,645 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - firefox browser with following url https://carwale.com is launched
+2025-11-13 02:22:03,302 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - firefox Browser is launched
+2025-11-13 02:22:03,302 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Homepage is launched
+2025-11-13 02:22:30,927 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Completed
+2025-11-13 02:22:33,827 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Started
+2025-11-13 02:22:41,397 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - chrome browser with following url https://carwale.com is launched
+2025-11-13 02:22:42,614 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - chrome Browser is launched
+2025-11-13 02:22:42,614 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Homepage is launched
+2025-11-13 02:23:11,645 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Completed
+2025-11-13 02:25:02,241 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Started
+2025-11-13 02:25:09,809 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - chrome browser with following url https://carwale.com is launched
+2025-11-13 02:25:11,438 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - chrome Browser is launched
+2025-11-13 02:25:11,439 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Homepage is launched
+2025-11-13 02:25:41,532 [NUnit.Fw.NonParallelWorker] INFO  PageObjectModelFramework.basetest.BaseTest - Test Execution is Completed

@@ -1,0 +1,16 @@
+﻿using OpenQA.Selenium;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace PageObjectModelFramework.pageobjects.CarPages
+{
+    internal class KiaCarPage : BasePage
+    {
+        public KiaCarPage(IWebDriver driver) : base(driver)
+        {
+        }
+    }
+}

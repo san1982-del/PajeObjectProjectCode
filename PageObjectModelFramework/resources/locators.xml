@@ -56,22 +56,22 @@
 	</HomePage>
 
 	<NewCarPage>
-		<bmwcar>
+		<bmwbrand>
 			<LocatorType>LINK</LocatorType>
 			<LocatorValue>BMW</LocatorValue>
-		</bmwcar>
-		<toyotacar>
+		</bmwbrand>
+		<toyotabrand>
 			<LocatorType>LINK</LocatorType>
 			<LocatorValue>Toyota</LocatorValue>
-		</toyotacar>
-		<audicar>
+		</toyotabrand>
+		<audibrand>
 			<LocatorType>LINK</LocatorType>
 			<LocatorValue>Audi</LocatorValue>
-		</audicar>
-		<kiacar>
+		</audibrand>
+		<kiabrand>
 			<LocatorType>LINK</LocatorType>
 			<LocatorValue>Kia</LocatorValue>
-		</kiacar>
+		</kiabrand>
 		<viewbrand>
 			<LocatorType>XPATH</LocatorType>
 			<LocatorValue>//div[@aria-label='[object Object]']</LocatorValue>
@@ -111,6 +111,30 @@
 			<LocatorValue>//div[@class='o-d ']//*[name()='svg']</LocatorValue>
 		</locationicon>
 	</UsedCarPage>
+
+	<CarPage>
+		<carprice>
+			<LocatorType>XPATH</LocatorType>
+			<LocatorValue>//span[@class='o-j4 o-jk o-js o-jJ']</LocatorValue>
+		</carprice>
+		<carvariant>
+			<LocatorType>XPATH</LocatorType>
+			<LocatorValue>//div[@class='o-bQ o-cm o-os o-jE o-j4 o-mi o-lX o-mO o-f o-aE o-aL']</LocatorValue>
+		</carvariant>
+		<webtablerow>
+			<LocatorType>XPATH</LocatorType>
+			<LocatorValue>//section/div/div[2]/table/tbody/tr</LocatorValue>
+		</webtablerow>
+		<webtablecolumn>
+			<LocatorType>XPATH</LocatorType>
+			<LocatorValue>//section/div/div[2]/table/tbody/tr[1]/td</LocatorValue>
+		</webtablecolumn>
+		<webtable>
+			<LocatorType>XPATH</LocatorType>
+			<LocatorValue>//section/div/div[2]/table</LocatorValue>
+		</webtable>
+	
+</CarPage>
 	
 
 </locators>

@@ -1,3 +1,11 @@
+D:\FrameworkCSharp\PageObjectModelFramework\PageObjectModelFramework\obj\Debug\net8.0\PageObjectModelFramework.csproj.AssemblyReference.cache
+D:\FrameworkCSharp\PageObjectModelFramework\PageObjectModelFramework\obj\Debug\net8.0\PageObjectModelFramework.GeneratedMSBuildEditorConfig.editorconfig
+D:\FrameworkCSharp\PageObjectModelFramework\PageObjectModelFramework\obj\Debug\net8.0\PageObjectModelFramework.gentestingplatformentrypointinputcache.cache
+D:\FrameworkCSharp\PageObjectModelFramework\PageObjectModelFramework\obj\Debug\net8.0\PageObjectModelFramework.genautoregisteredextensionsinputcache.cache
+D:\FrameworkCSharp\PageObjectModelFramework\PageObjectModelFramework\obj\Debug\net8.0\PageObjectModelFramework.AssemblyInfoInputs.cache
+D:\FrameworkCSharp\PageObjectModelFramework\PageObjectModelFramework\obj\Debug\net8.0\PageObjectModelFramework.AssemblyInfo.cs
+D:\FrameworkCSharp\PageObjectModelFramework\PageObjectModelFramework\obj\Debug\net8.0\PageObjectModelFramework.csproj.CoreCompileInputs.cache
+D:\FrameworkCSharp\PageObjectModelFramework\PageObjectModelFramework\obj\Debug\net8.0\PageObjectModelFramework.sourcelink.json
 D:\FrameworkCSharp\PageObjectModelFramework\PageObjectModelFramework\bin\Debug\net8.0\testhost.dll
 D:\FrameworkCSharp\PageObjectModelFramework\PageObjectModelFramework\bin\Debug\net8.0\testhost.exe
 D:\FrameworkCSharp\PageObjectModelFramework\PageObjectModelFramework\bin\Debug\net8.0\NUnit3.TestAdapter.pdb
@@ -226,13 +234,6 @@ D:\FrameworkCSharp\PageObjectModelFramework\PageObjectModelFramework\bin\Debug\n
 D:\FrameworkCSharp\PageObjectModelFramework\PageObjectModelFramework\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
 D:\FrameworkCSharp\PageObjectModelFramework\PageObjectModelFramework\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 D:\FrameworkCSharp\PageObjectModelFramework\PageObjectModelFramework\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
-D:\FrameworkCSharp\PageObjectModelFramework\PageObjectModelFramework\obj\Debug\net8.0\PageObjectModelFramework.csproj.AssemblyReference.cache
-D:\FrameworkCSharp\PageObjectModelFramework\PageObjectModelFramework\obj\Debug\net8.0\PageObjectModelFramework.GeneratedMSBuildEditorConfig.editorconfig
-D:\FrameworkCSharp\PageObjectModelFramework\PageObjectModelFramework\obj\Debug\net8.0\PageObjectModelFramework.gentestingplatformentrypointinputcache.cache
-D:\FrameworkCSharp\PageObjectModelFramework\PageObjectModelFramework\obj\Debug\net8.0\PageObjectModelFramework.genautoregisteredextensionsinputcache.cache
-D:\FrameworkCSharp\PageObjectModelFramework\PageObjectModelFramework\obj\Debug\net8.0\PageObjectModelFramework.AssemblyInfoInputs.cache
-D:\FrameworkCSharp\PageObjectModelFramework\PageObjectModelFramework\obj\Debug\net8.0\PageObjectModelFramework.AssemblyInfo.cs
-D:\FrameworkCSharp\PageObjectModelFramework\PageObjectModelFramework\obj\Debug\net8.0\PageObjectModelFramework.csproj.CoreCompileInputs.cache
 D:\FrameworkCSharp\PageObjectModelFramework\PageObjectModelFramework\obj\Debug\net8.0\PageObje.C3E9B380.Up2Date
 D:\FrameworkCSharp\PageObjectModelFramework\PageObjectModelFramework\obj\Debug\net8.0\PageObjectModelFramework.dll
 D:\FrameworkCSharp\PageObjectModelFramework\PageObjectModelFramework\obj\Debug\net8.0\refint\PageObjectModelFramework.dll

@@ -17,8 +17,8 @@ namespace PageObjectModelFramework.testcases
     {
 
         // [Parallelizable(ParallelScope.Children)]
-        [Test, TestCaseSource(nameof(GetTestData)), Category("bvt"), Retry(2)]
-        public void TestFindNewCar(string browser, string runmode, string carbrand,string cartitle)
+        [Test, TestCaseSource(nameof(GetTestData)), Category("bvt"), Retry(1)]
+        public void TestFindNewCar(string browser, string runmode, string carbrand,string cartitle, string carname)
         {   
             SetUp(browser);
             BaseTest.log.Info(browser+" Browser is launched");
@@ -26,16 +26,22 @@ namespace PageObjectModelFramework.testcases
             BaseTest.log.Info("Homepage is launched");
             NewCarPage newcarbrand = homePage.FindNewCar();
             newcarbrand.ViewBrand();
-            BasePage.carBase.carBrandPage(carbrand, newcarbrand);
-
+            CarBrandPage Brandpage = newcarbrand.OpenCarBrandPage(carbrand, newcarbrand);
             Console.WriteLine(BasePage.carBase.ValidatePageTitle());
-            Assert.That(cartitle.Equals(BasePage.carBase.ValidatePageTitle()), "car titles not matching for : "+cartitle);
+            Assert.That(cartitle.Equals(BasePage.carBase.ValidatePageTitle()), "Car Brand title not matching for : "+cartitle);
+            CarNamePage carpage = Brandpage.OpenCarNamePage(carname);
+            Console.WriteLine(BasePage.carBase.ValidatePageTitle());
+            Assert.That(carname.Equals(BasePage.carBase.ValidatePageTitle()), "Car Name title not matching for : "+carname);
+            carpage.GetCarPrice();
+            BaseTest.GetExtentTest().Info("Price of " + carname+" is "  +carpage.GetCarPrice());
+           string webtabledta = carpage.GetCarVariantWebTable();
+            BaseTest.GetExtentTest().Info(webtabledta);
         }
 
         public static IEnumerable<TestCaseData> GetTestData()
         {
 
-            var columns = new List<string> { "browser", "runmode","carbrand","cartitle"};
+            var columns = new List<string> { "browser", "runmode","carbrand","cartitle","carname"};
 
             return DataUtil.GetTestDataFromExcel(Directory.GetParent(Environment.CurrentDirectory).Parent.Parent.FullName + "\\resources\\testdata.xlsx", "FindNewCar", columns);
 

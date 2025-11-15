@@ -24,6 +24,7 @@ namespace PageObjectModelFramework.testcases
             HomePage homePage = new HomePage(driver.Value);
             BaseTest.log.Info("Homepage is launched");
             BasePage.carBase.GlobalSearch(carname, carbrand, cartitle, searchtype);
+            
 
          }
 
